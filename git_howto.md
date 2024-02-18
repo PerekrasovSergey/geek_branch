@@ -16,3 +16,7 @@ git commit -m "Message"
 ```sh
 git log
 ```
+Вывести список фиксированных "версий" в кратце:
+```sh
+git log --oneline
+```
