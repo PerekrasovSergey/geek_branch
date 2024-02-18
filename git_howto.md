@@ -24,3 +24,7 @@ git log --oneline
 ```sh
 git checkout <number_commit>
 ```
+Перейти на последнюю зафиксированную "версию":
+```sh
+git checkout master
+```
