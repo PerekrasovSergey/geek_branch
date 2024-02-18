@@ -20,3 +20,7 @@ git log
 ```sh
 git log --oneline
 ```
+Сделать выбранную "версию" текущей:
+```sh
+git checkout <number_commit>
+```
