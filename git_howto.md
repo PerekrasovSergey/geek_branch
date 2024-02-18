@@ -12,3 +12,7 @@ git add <file_name>
 ```sh
 git commit -m "Message"
 ```
+Вывести список фиксированных "версий":
+```sh
+git log
+```
