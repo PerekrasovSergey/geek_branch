@@ -20,6 +20,10 @@ git log
 ```sh
 git log --oneline
 ```
+Вывести список фиксированных "версий" в кратце c с отображением изменений по веткам:
+```sh
+git log --oneline --graph
+```
 Сделать выбранную "версию" текущей:
 ```sh
 git checkout <number_commit>
